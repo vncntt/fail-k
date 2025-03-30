@@ -1,0 +1,32 @@
+Fail@k evaluation metric.
+
+Instead of pass@k which counts any success within the k attempts as a pass, fail@k means any failure in the k attempts means a failure.
+pass@k can be thought of as testing the upper bound of model potential.
+fail@k tests the lower bound.
+
+If a model is 95% reliable on a simple task, you still have to check overe output after generation. 
+However, if it is 99.5% reliable, you can fully trust in the model.
+
+This small jump in confidence is extremely important as it means you won't have to monitor model output at all.
+
+
+Test various models on various datasets.
+
+Dataset (found by looking through what datasets in non-reasoning model reports):
+GSM8K
+MATH
+
+Test various models on this:
+gemini 2.5 pro
+gpt-4o
+claude 3.7 sonnet
+
+I'll probably start with just one model on one dataset with fail@4 or something and see if there are interesting results.
+
+How would I get the datasets? Huggingface?
+
+How would I get the model APIs? openrouter seems good.
+
+
+First test just regular pass@1 accuracy and make sure everything is working properly.
+
