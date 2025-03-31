@@ -30,3 +30,33 @@ How would I get the model APIs? openrouter seems good.
 
 First test just regular pass@1 accuracy and make sure everything is working properly.
 
+
+
+Datasets:
+- GSM8K
+- MATH (downloaded from kaggle)
+- MATH500 
+- HumanEval (code) (163 samples)
+- GPQA
+- LCB code gen
+
+
+
+Other datasets that could be run but don't seem extremely necessary.
+- CMATH
+
+
+I want a function where
+
+input: 
+
+- k
+- dataset to run it on
+- answers
+- bool: extra check needed or not
+
+
+output:
+accuracy
+wrong_answers (array)
+

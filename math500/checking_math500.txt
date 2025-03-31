@@ -1,0 +1,202 @@
+CORRECT ANSWER: \left( 3, \frac{\pi}{2} \right)
+MODEL OUTPUT: (3,π/2)
+COMPARISON ANSWER : TRUE
+These are equivalent. The second answer just uses LaTeX notation to write the exact same point: (3, π/2)
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: p - q
+MODEL OUTPUT: p - q
+COMPARISON ANSWER : TRUE
+These expressions are identical.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \frac{14}{3}
+MODEL OUTPUT: 14/3
+COMPARISON ANSWER : TRUE
+These expressions are equivalent. 14/3 and \frac{14}{3} are just different ways of writing the same fraction. The \frac{14}{3} is just the LaTeX notation for writing a fraction, while 14/3 is a more plain text way of writing it.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 9
+MODEL OUTPUT: 9
+COMPARISON ANSWER : TRUE
+These answers are exactly the same.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \text{Evelyn}
+MODEL OUTPUT: Evelyn
+COMPARISON ANSWER : TRUE
+These answers are equivalent. \text{Evelyn} is just the LaTeX/mathematical notation way of writing Evelyn as plain text, but they represent the same thing.
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 42
+MODEL OUTPUT: 42
+COMPARISON ANSWER : TRUE
+These are the exact same number: 42=42
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 27
+MODEL OUTPUT: 27
+COMPARISON ANSWER : TRUE
+These answers are exactly the same number (27).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 90^\circ
+MODEL OUTPUT: 72
+COMPARISON ANSWER : FALSE
+These are not equivalent.
+
+72 is just a number, while 90° represents an angle of 90 degrees. 
+
+72 ≠ 90 degrees
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 3\sqrt{13}
+MODEL OUTPUT: 3√13
+COMPARISON ANSWER : TRUE
+These are equivalent. Both represent the same mathematical expression - 3 times the square root of 13. The second one just uses LaTeX notation (\sqrt) while the first uses the √ symbol directly.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 4
+MODEL OUTPUT: 2
+COMPARISON ANSWER : FALSE
+These answers (2 and 4) are clearly not equivalent as they are different numbers.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 2220
+MODEL OUTPUT: 2220
+COMPARISON ANSWER : TRUE
+Looking at both answers:
+
+2220 = 2220
+
+They are exactly the same number.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \frac{3}{56}
+MODEL OUTPUT: 8/63
+COMPARISON ANSWER : FALSE
+Converting both to decimals for quick comparison:
+
+8/63 ≈ 0.127
+3/56 ≈ 0.054
+
+These are clearly not equivalent.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 284
+MODEL OUTPUT: 284
+COMPARISON ANSWER : TRUE
+The answers 284 and 284 are identical numbers.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers are clearly equivalent as they are both exactly 5.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \sqrt{51}
+MODEL OUTPUT: √51
+COMPARISON ANSWER : TRUE
+These expressions are exactly the same - √51 and \sqrt{51} are just different ways of writing the square root of 51. The first uses the radical symbol √, while the second uses the LaTeX notation \sqrt{}, but they represent the identical mathematical expression.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 6 - 5i
+MODEL OUTPUT: 6 - 5i
+COMPARISON ANSWER : TRUE
+These expressions are identical:
+6 - 5i = 6 - 5i
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: -50
+MODEL OUTPUT: -50
+COMPARISON ANSWER : TRUE
+These answers are identical (-50 = -50).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \pi
+MODEL OUTPUT: π
+COMPARISON ANSWER : TRUE
+These answers are equivalent. \pi is just the LaTeX notation for π. They represent the same mathematical constant.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 28
+MODEL OUTPUT: 56
+COMPARISON ANSWER : FALSE
+These answers are not equivalent.
+56 is twice as large as 28.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 3
+MODEL OUTPUT: 3+2√2
+COMPARISON ANSWER : FALSE
+The answers are not equivalent.
+3+2√2 is larger than 3 because it includes the additional term 2√2, which is approximately 2.828.
+3+2√2 ≈ 5.828, while 3 is just 3.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 6+9i
+MODEL OUTPUT: 6 + 9i
+COMPARISON ANSWER : TRUE
+These answers are equivalent. They're exactly the same expression, just written with different spacing.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 13535
+MODEL OUTPUT: 15624
+COMPARISON ANSWER : FALSE
+These numbers are clearly different:
+15624 ≠ 13535
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers are the same number (5).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: x=5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers are equivalent. While the second one explicitly writes it as x=5 and the first just states 5, they're expressing the same value/solution.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 10
+MODEL OUTPUT: 10
+COMPARISON ANSWER : TRUE
+These answers are identical.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 1,-2
+MODEL OUTPUT: 1
+COMPARISON ANSWER : FALSE
+These answers are not equivalent.
+
+The first answer gives only one solution (1), while the second answer provides two solutions (1 and -2).
+
+These represent different sets of solutions to whatever equation or problem they came from.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 144
+MODEL OUTPUT: 384
+COMPARISON ANSWER : FALSE
+These numbers are clearly different:
+384 ≠ 144
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 78
+MODEL OUTPUT: 78
+COMPARISON ANSWER : TRUE
+These answers are exactly the same.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: -2 + 7i
+MODEL OUTPUT: -2 + 7i
+COMPARISON ANSWER : TRUE
+These are identical expressions, both showing a complex number with a real part of -2 and an imaginary part of 7i.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 225
+MODEL OUTPUT: 225
+COMPARISON ANSWER : TRUE
+These answers are identical - both are 225.
+
+<ANSWER>YES</ANSWER>

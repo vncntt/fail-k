@@ -1,0 +1,547 @@
+CORRECT ANSWER: \left( 3, \frac{\pi}{2} \right)
+MODEL OUTPUT: (3, π/2)
+COMPARISON ANSWER : TRUE
+These are equivalent expressions. The second one just uses LaTeX notation (\left and \right for parentheses, and \frac for the fraction), but they represent the same ordered pair of numbers: 3 and π/2.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \left( 3, \frac{\pi}{2} \right)
+MODEL OUTPUT: (3,π/2)
+COMPARISON ANSWER : TRUE
+These are the same mathematical expression, just written in different formats. 
+The first uses regular text notation π/2, while the second uses LaTeX notation \frac{\pi}{2}.
+Both represent the point with x-coordinate 3 and y-coordinate π/2.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \left( 3, \frac{\pi}{2} \right)
+MODEL OUTPUT: (3,π/2)
+COMPARISON ANSWER : TRUE
+These answers are equivalent. (3,π/2) and \left( 3, \frac{\pi}{2} \right) are just different ways of writing the same ordered pair. The first is a simpler notation, while the second uses \left and \right for parentheses and the fraction notation for π/2, but they represent the same point.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \left( 3, \frac{\pi}{2} \right)
+MODEL OUTPUT: (3,1.5708)
+COMPARISON ANSWER : TRUE
+These answers are equivalent since 1.5708 radians is approximately equal to π/2 (≈ 1.5708). The first coordinate is identical in both (3), and 1.5708 is just the decimal representation of π/2.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: p - q
+MODEL OUTPUT: p - q
+COMPARISON ANSWER : TRUE
+These expressions are identical:
+p - q and p - q
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: p - q
+MODEL OUTPUT: p - q
+COMPARISON ANSWER : TRUE
+These expressions are identical: p - q = p - q
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: p - q
+MODEL OUTPUT: p-q
+COMPARISON ANSWER : TRUE
+These expressions are equivalent. They represent the same mathematical operation of subtracting q from p. The only difference is spacing, which doesn't affect the mathematical meaning.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: p - q
+MODEL OUTPUT: p-q
+COMPARISON ANSWER : TRUE
+These expressions are equivalent. They're the same mathematical expression, just written with different spacing. Both represent subtraction of q from p.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \frac{14}{3}
+MODEL OUTPUT: 14/3
+COMPARISON ANSWER : TRUE
+These expressions are equivalent. \frac{14}{3} is just the LaTeX/mathematical notation for writing a fraction, while 14/3 is the plain text way of writing the same fraction.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \frac{14}{3}
+MODEL OUTPUT: 14/3
+COMPARISON ANSWER : TRUE
+These are equivalent. Both represent the same mathematical value, just written in different notations. 14/3 is standard inline notation while \frac{14}{3} is LaTeX fraction notation.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \frac{14}{3}
+MODEL OUTPUT: 14/3
+COMPARISON ANSWER : TRUE
+These expressions are equivalent. \frac{14}{3} is just the LaTeX/mathematical notation for writing fractions, while 14/3 is the plain text way of writing the same fraction.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \frac{14}{3}
+MODEL OUTPUT: 14/3
+COMPARISON ANSWER : TRUE
+These are the same value. 14/3 and \frac{14}{3} are just different ways of writing the same fraction - the second one using LaTeX notation to display it in a more traditional vertical fraction format.
+
+<ANSWER> YES </ANSWER>
+CORRECT ANSWER: 9
+MODEL OUTPUT: 9
+COMPARISON ANSWER : TRUE
+These two answers appear to be exactly the same number (9).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 9
+MODEL OUTPUT: 9
+COMPARISON ANSWER : TRUE
+These answers (9 and 9) are identical.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 9
+MODEL OUTPUT: 9
+COMPARISON ANSWER : TRUE
+These answers are exactly the same.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 9
+MODEL OUTPUT: 9
+COMPARISON ANSWER : TRUE
+These answers are the same number (9), so they are equivalent.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \text{Evelyn}
+MODEL OUTPUT: Evelyn
+COMPARISON ANSWER : TRUE
+These answers are equivalent. The \text{} notation in mathematical typesetting simply indicates that "Evelyn" should be displayed as regular text rather than in math mode, but the meaning is exactly the same.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \text{Evelyn}
+MODEL OUTPUT: Evelyn
+COMPARISON ANSWER : TRUE
+These answers are equivalent. \text{} is just the LaTeX command to display regular text, so both are showing "Evelyn" in the same way.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \text{Evelyn}
+MODEL OUTPUT: Evelyn
+COMPARISON ANSWER : TRUE
+These answers are equivalent. \text{} is just LaTeX notation to display text in a math environment, but both ultimately show "Evelyn".
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \text{Evelyn}
+MODEL OUTPUT: Evelyn
+COMPARISON ANSWER : TRUE
+These answers are equivalent. \text{Evelyn} is just the LaTeX/mathematical notation for writing text (Evelyn) in a math environment, but they represent exactly the same thing.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 42
+MODEL OUTPUT: 42
+COMPARISON ANSWER : TRUE
+These are exactly the same number: 42
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 42
+MODEL OUTPUT: 42
+COMPARISON ANSWER : TRUE
+These answers are the same number (42).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 42
+MODEL OUTPUT: 42
+COMPARISON ANSWER : TRUE
+These answers are the same number: 42 = 42
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 42
+MODEL OUTPUT: 42
+COMPARISON ANSWER : TRUE
+These answers appear to be exactly the same.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 27
+MODEL OUTPUT: 27
+COMPARISON ANSWER : TRUE
+These answers are identical (27 = 27).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 27
+MODEL OUTPUT: 27
+COMPARISON ANSWER : TRUE
+These answers are identical (both 27).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 27
+MODEL OUTPUT: 27
+COMPARISON ANSWER : TRUE
+These answers are exactly the same (27 = 27).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 27
+MODEL OUTPUT: 27
+COMPARISON ANSWER : TRUE
+These answers are exactly the same number (27).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 90^\circ
+MODEL OUTPUT: 87.6
+COMPARISON ANSWER : FALSE
+These answers are not equivalent. 87.6 is similar to but not the same as 90 degrees.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 3\sqrt{13}
+MODEL OUTPUT: 3√13
+COMPARISON ANSWER : TRUE
+These answers are exactly the same - they're just written in different formats. 3√13 is the same as 3\sqrt{13} - the latter is just LaTeX notation for the same mathematical expression.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 3\sqrt{13}
+MODEL OUTPUT: 3√13
+COMPARISON ANSWER : TRUE
+These are equivalent. The second answer just uses LaTeX notation (\sqrt) to express the square root symbol, but they both represent the exact same mathematical expression: 3 times the square root of 13.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 3\sqrt{13}
+MODEL OUTPUT: 3√13
+COMPARISON ANSWER : TRUE
+These expressions are identical - they're just written in different formats. 3√13 is the same as 3\sqrt{13} - the latter is just LaTeX notation for the same mathematical expression.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 3\sqrt{13}
+MODEL OUTPUT: 3√13
+COMPARISON ANSWER : TRUE
+These expressions are identical - they're just written with different notation. 3√13 is the same as 3\sqrt{13}. The latter is just LaTeX notation for the square root symbol.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 4
+MODEL OUTPUT: 2
+COMPARISON ANSWER : FALSE
+These numbers 2 and 4 are clearly different values and not equivalent.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 2220
+MODEL OUTPUT: 2000
+COMPARISON ANSWER : FALSE
+These numbers are clearly different:
+2000 ≠ 2220
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: \frac{3}{56}
+MODEL OUTPUT: -2/63
+COMPARISON ANSWER : FALSE
+Looking at these fractions, -2/63 and 3/56, they are not equivalent.
+
+A quick way to check: convert them to decimals
+-2/63 ≈ -0.0317
+3/56 ≈ 0.0536
+
+They have different signs (one negative, one positive) and different values.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 284
+MODEL OUTPUT: 284
+COMPARISON ANSWER : TRUE
+These answers are identical: both are 284
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 284
+MODEL OUTPUT: 284
+COMPARISON ANSWER : TRUE
+These two answers are the same number: 284 = 284
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 284
+MODEL OUTPUT: 284
+COMPARISON ANSWER : TRUE
+These answers are the same number (284).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 284
+MODEL OUTPUT: 284
+COMPARISON ANSWER : TRUE
+These numbers are identical.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers are the same number (5). They are equivalent.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers are clearly equivalent as they are exactly the same number (5).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers (5 and 5) are identical.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers (5 and 5) are exactly the same.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \sqrt{51}
+MODEL OUTPUT: √51
+COMPARISON ANSWER : TRUE
+These expressions are identical. \sqrt{51} is simply the LaTeX/mathematical notation for √51. They both represent the square root of 51.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \sqrt{51}
+MODEL OUTPUT: $\sqrt{51}$
+COMPARISON ANSWER : TRUE
+These expressions are identical. They're both representing the square root of 51, just written with different formatting (one with $ symbols for LaTeX/MathJax formatting, one without).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \sqrt{51}
+MODEL OUTPUT: √51
+COMPARISON ANSWER : TRUE
+These expressions are identical - \sqrt{51} is just the LaTeX/mathematical notation for √51. They both represent the square root of 51.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \sqrt{51}
+MODEL OUTPUT: 10
+COMPARISON ANSWER : FALSE
+Looking at these:
+10 ≈ 10
+√51 ≈ 7.14
+
+These are not equivalent values. 10 is significantly larger than √51.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 6 - 5i
+MODEL OUTPUT: -5i
+COMPARISON ANSWER : FALSE
+These answers are not equivalent.
+
+The first answer (-5i) is a purely imaginary number, while the second answer (6 - 5i) has both real and imaginary parts.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: -50
+MODEL OUTPUT: -50
+COMPARISON ANSWER : TRUE
+These answers are exactly the same: -50 = -50
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: -50
+MODEL OUTPUT: -50
+COMPARISON ANSWER : TRUE
+These answers are exactly the same: -50 = -50
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: -50
+MODEL OUTPUT: -50
+COMPARISON ANSWER : TRUE
+These answers are exactly the same: -50 = -50
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: -50
+MODEL OUTPUT: -50
+COMPARISON ANSWER : TRUE
+These numbers are exactly the same.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: \pi
+MODEL OUTPUT: π/2
+COMPARISON ANSWER : FALSE
+Let me quickly check these answers.
+
+π/2 = 1.5708... radians (approximately)
+π = 3.1416... radians (approximately)
+
+These values are not equivalent. π/2 is half of π.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 28
+MODEL OUTPUT: 56
+COMPARISON ANSWER : FALSE
+These numbers are not equivalent as 56 is twice as large as 28.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 3
+MODEL OUTPUT: 3
+COMPARISON ANSWER : TRUE
+These answers are exactly the same - both are 3.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 3
+MODEL OUTPUT: 3
+COMPARISON ANSWER : TRUE
+These answers are exactly the same - both are simply "3".
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 3
+MODEL OUTPUT: 3
+COMPARISON ANSWER : TRUE
+These two answers are exactly the same number: 3 = 3
+
+<ANSWER> YES </ANSWER>
+CORRECT ANSWER: 3
+MODEL OUTPUT: 3
+COMPARISON ANSWER : TRUE
+These answers appear to be exactly the same number (3).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 6+9i
+MODEL OUTPUT: 6+9i
+COMPARISON ANSWER : TRUE
+These are exactly the same: both are 6+9i
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 6+9i
+MODEL OUTPUT: 6+9i
+COMPARISON ANSWER : TRUE
+These expressions are exactly the same: 6+9i = 6+9i
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 6+9i
+MODEL OUTPUT: 6+9i
+COMPARISON ANSWER : TRUE
+These answers are identical mathematical expressions:
+6+9i = 6+9i
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 6+9i
+MODEL OUTPUT: 6+9i
+COMPARISON ANSWER : TRUE
+These answers are identical, both being 6+9i.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 13535
+MODEL OUTPUT: 46340
+COMPARISON ANSWER : FALSE
+These numbers are clearly different.
+46340 ≠ 13535
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These are exactly the same number - both are simply 5.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 5
+MODEL OUTPUT: 4
+COMPARISON ANSWER : FALSE
+These numbers are clearly different. 4 is not equal to 5.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: x=5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers are equivalent. Both express the same value of 5, just with one showing it as "x=5" and the other showing just "5". In the context of solving for x, these mean the same thing.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: x=5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers are equivalent. Both arrive at the same value, just expressed slightly differently. One directly states "5" while the other specifies "x=5", but they both indicate the same solution.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: x=5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers are equivalent. They both represent the same value of 5, just with one showing the variable assignment explicitly and the other showing just the value.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: x=5
+MODEL OUTPUT: 5
+COMPARISON ANSWER : TRUE
+These answers are equivalent. In mathematical context, when solving for x, writing "5" or "x=5" effectively means the same thing - they both indicate that the value of x is 5.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 10
+MODEL OUTPUT: 10
+COMPARISON ANSWER : TRUE
+These answers appear to be exactly the same.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 10
+MODEL OUTPUT: 8
+COMPARISON ANSWER : FALSE
+These numbers 8 and 10 are clearly different values and therefore not equivalent.
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 1,-2
+MODEL OUTPUT: -2,1
+COMPARISON ANSWER : TRUE
+These two answers provide the same values in a different order. Since they are points or solutions, the order doesn't matter - they represent the same answer set.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 1,-2
+MODEL OUTPUT: 1,2
+COMPARISON ANSWER : FALSE
+These answers are not equivalent. While they share the value 1, the second number differs (2 vs -2).
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 144
+MODEL OUTPUT: 384
+COMPARISON ANSWER : FALSE
+These numbers are clearly different.
+384 ≠ 144
+
+<ANSWER>NO</ANSWER>
+CORRECT ANSWER: 78
+MODEL OUTPUT: 78
+COMPARISON ANSWER : TRUE
+These answers are identical numbers.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 78
+MODEL OUTPUT: 78
+COMPARISON ANSWER : TRUE
+Both answers are 78, so they are equivalent.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 78
+MODEL OUTPUT: 78
+COMPARISON ANSWER : TRUE
+These answers are identical.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 78
+MODEL OUTPUT: 78
+COMPARISON ANSWER : TRUE
+These answers are identical.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: -2 + 7i
+MODEL OUTPUT: -2 + 7i
+COMPARISON ANSWER : TRUE
+These expressions are exactly the same: -2 + 7i and -2 + 7i
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: -2 + 7i
+MODEL OUTPUT: -2 + 7i
+COMPARISON ANSWER : TRUE
+These are identical expressions:
+-2 + 7i = -2 + 7i
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: -2 + 7i
+MODEL OUTPUT: -2 + 7i
+COMPARISON ANSWER : TRUE
+These answers are identical. They both show -2 as the real part and 7i as the imaginary part.
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: -2 + 7i
+MODEL OUTPUT: -2 + 7i
+COMPARISON ANSWER : TRUE
+These answers are exactly the same: -2 + 7i = -2 + 7i
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 225
+MODEL OUTPUT: 225
+COMPARISON ANSWER : TRUE
+These answers are exactly the same number (225).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 225
+MODEL OUTPUT: 225
+COMPARISON ANSWER : TRUE
+These answers are exactly the same number (225).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 225
+MODEL OUTPUT: 225
+COMPARISON ANSWER : TRUE
+These answers are exactly the same number (225).
+
+<ANSWER>YES</ANSWER>
+CORRECT ANSWER: 225
+MODEL OUTPUT: 225
+COMPARISON ANSWER : TRUE
+These answers are exactly the same (225 = 225).
+
+<ANSWER>YES</ANSWER>
