@@ -60,3 +60,5 @@ output:
 accuracy
 wrong_answers (array)
 
+
+integrate into openai nanoeval or uk inspect ai for more adoption?
